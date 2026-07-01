@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0052CC?logo=apache&logoColor=white)
 
 ## Resumo do Projeto
 
